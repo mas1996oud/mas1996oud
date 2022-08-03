@@ -12,7 +12,7 @@
 class SoftwareEngineer:
 
     def __init__(self):
-        self.name = "Mohsen Falakedin"
+        self.name = "Masoud Rezaei"
         self.role = "Software Engineer"
         self.language_spoken = ["fa_IR", "en_US"]
 
@@ -37,12 +37,12 @@ me.say_hi()
 
 ## &#x1f4c8; GitHub Stats
 
-<a href="https://github.com/OxMohsen/OxMohsen">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OxMohsen&hide=html&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Mohsen's GitHub Stats" />
+<a href="https://github.com/mas1996oud/mas1996oud">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OxMohsen&hide=html&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Masoud's GitHub Stats" />
 </a>
 
-<a href="https://github.com/OxMohsen/OxMohsen">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=OxMohsen&show_icons=true&line_height=27&count_private=true&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Mohsen's GitHub Stats" />
+<a href="https://github.com/mas1996oud/mas1996oud">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=OxMohsen&show_icons=true&line_height=27&count_private=true&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Masoud's GitHub Stats" />
 </a>
 
 <!-- ## 🏆 GitHub Trophies
